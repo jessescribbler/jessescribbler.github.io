@@ -1,1 +1,1 @@
-This is the github page.
+Personal blog hosted with GitHub Pages.
